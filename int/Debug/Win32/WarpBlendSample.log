@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WarpBlendSample.cpp
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(78): warning C4018: '<': signed/unsigned mismatch
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(148): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(187): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(188): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+WarpBlendSample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  WarpBlendSample.vcxproj -> D:\BLending_code_python\JAN_2024_IMAGES_CODE\mc2\WarpBlendSample\bin\Debug\Win32\WarpBlendSample.exe

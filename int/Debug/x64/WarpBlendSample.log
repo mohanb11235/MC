@@ -1,0 +1,6 @@
+﻿  WarpBlendSample.cpp
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(150): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(189): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\mc2\warpblendsample\warpblendsample.cpp(190): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+  WarpBlendSample.vcxproj -> D:\BLending_code_python\JAN_2024_IMAGES_CODE\mc2\WarpBlendSample\bin\Debug\x64\WarpBlendSample.exe
