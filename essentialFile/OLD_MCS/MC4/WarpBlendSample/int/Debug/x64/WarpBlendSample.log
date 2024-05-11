@@ -1,0 +1,22 @@
+﻿  WarpBlendSample.cpp
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(94): warning C4018: '<': signed/unsigned mismatch
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(193): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(232): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(233): warning C4244: 'initializing': conversion from 'NvS32' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(257): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(257): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(253): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(256): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(266): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(307): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(305): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\blending_code_python\jan_2024_images_code\old_mcs\mc4\warpblendsample\warpblendsample.cpp(306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  WarpBlendSample.vcxproj -> D:\BLending_code_python\JAN_2024_IMAGES_CODE\OLD_MCS\MC4\WarpBlendSample\bin\Debug\x64\WarpBlendSample.exe
